@@ -1,3 +1,6 @@
+Moved to https://gitlab.com/NicolaivdSmagt/socket-io-chat-fargate
+-----------------------------------------------------------------
+
 # Fargate.chat
 
 [![app](./docs/images/running-app.png)](https://fargate.chat)
